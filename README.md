@@ -1,5 +1,5 @@
 Hey guys 
-here are my all of my arduino codes of my projects 
+here are my all of my arduino codes of my projects. 
 Things you'll be needing to implement these codes are:
 Arduino Generic UNO Board, 
 NODE MCU ESP 8266 Board, 
