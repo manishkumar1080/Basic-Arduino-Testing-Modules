@@ -15,11 +15,9 @@ void setup (void)
 
 void loop (void)
 {
-   while(UNO.available()>0){
-    float val = UNO.parseFloat();
-    if(UNO.read() == '\n'){
-    Serial.println(val);
+   while(UNO.available()){
+    char val = UNO.read();
+    Serial.print(val);
  }
   delay(50);
-}
 } 

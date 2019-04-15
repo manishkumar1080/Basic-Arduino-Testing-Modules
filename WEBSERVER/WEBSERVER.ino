@@ -16,9 +16,9 @@ void setup(void){
   delay(10);
   Serial.println('\n');
 
-  wifiMulti.addAP("Advance Tech 2", "advance@20");   // add Wi-Fi networks you want to connect to
+  wifiMulti.addAP("Bonjour", "983747204900");   // add Wi-Fi networks you want to connect to
   wifiMulti.addAP("Connect", "connect@1234");
-  wifiMulti.addAP("ssid_from_AP_3", "your_password_for_AP_3");
+  wifiMulti.addAP("Advance Tech 2", "advance@20");
 
   Serial.println("Connecting ...");
   int i = 0;

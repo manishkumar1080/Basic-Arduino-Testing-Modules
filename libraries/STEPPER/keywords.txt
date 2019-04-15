@@ -1,0 +1,18 @@
+STEPPER	KEYWORD1
+
+
+configureStep	KEYWORD2
+stopStepper	KEYWORD2
+runStepper	KEYWORD2
+turnStepper	KEYWORD2
+
+Low              LITERAL1
+Medium           LITERAL1
+High             LITERAL1
+
+CounterClockwise LITERAL1 
+Clockwise        LITERAL1
+
+Full             LITERAL1
+Half             LITERAL1
+
